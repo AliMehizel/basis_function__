@@ -15,9 +15,9 @@ This repository contains an implementation of basis functions in Python. Basis f
 - **Implemented:**
   - Fourier Basis Function
   - B-spline Basis Function
+  - Chebychev (2 version)
 - **Coming Soon:**
   - Radial Basis Function (RBF)
-  - Chebyshev Basis Function
   - Laguerre Basis Function
   - Rational Basis Function
   - Fractal Polynomial Basis Function
